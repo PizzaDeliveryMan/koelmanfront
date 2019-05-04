@@ -4,7 +4,7 @@
   "description": "The core client scripts and assets for Koel",
   "main": "js/app.js",
   "dependencies": {
-    "@phanan/vuebus": "phanan/vuebus",
+    "@phanan/vuebus": "github:phanan/vuebus",
     "alertify.js": "^1.0.12",
     "axios": "^0.15.3",
     "blueimp-md5": "^2.3.0",
